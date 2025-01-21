@@ -276,9 +276,9 @@ nav {
     grid-gap: 20px;
 }
 
-.blog--cards--images {
-    /* width: 100%; */
-}
+/* .blog--cards--images {
+     width: 100%;
+} */
 
 .blog--cards--images img {
     width: 100%;
