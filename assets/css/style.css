@@ -130,7 +130,8 @@ nav {
 }
 
 .hero__section--horizontal--cards--content {
-    width: 500px;
+    /* width: 500px; */
+    width: 100%;
     cursor: pointer;
 }
 
@@ -274,6 +275,7 @@ nav {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
+    /* width: 100%; */
 }
 
 /* .blog--cards--images {
